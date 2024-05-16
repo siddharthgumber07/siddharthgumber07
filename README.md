@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthgumber07&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthgumber07" /> </p>
 
-
+<div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently working on [Bitcoin price predictor](https://github.com/siddharthgumber07/bitcoinPredictor)
 
