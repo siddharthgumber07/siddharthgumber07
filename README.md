@@ -11,6 +11,7 @@
 - 👯 I’m looking to collaborate on **ML, WebD and game development projects**
 
 - 📫 How to reach me: **siddharthgumber123@gmail.com**
+- 🤖 “In God we trust. All others must bring data.” – W. Edwards Deming
 
 Connect With Me:
 <p align="left">
