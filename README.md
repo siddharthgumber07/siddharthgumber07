@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **ML, WebD and game development projects**
 
-- 📫 How to reach me **siddharthgumber123@gmail.com**
+- 📫 **siddharthgumber123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
