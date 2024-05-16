@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthgumber07&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthgumber07" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/bahroo-hacker.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently working on [Bitcoin price predictor](https://github.com/siddharthgumber07/bitcoinPredictor)
 
 - 🌱 I’m currently learning **Scikit-learn**
