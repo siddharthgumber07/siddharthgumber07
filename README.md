@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthgumber07&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthgumber07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthgumber07" alt="siddharthgumber07" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently working on [Bitcoin price predictor](https://github.com/siddharthgumber07/bitcoinPredictor)
 
 - 🌱 I’m currently learning **Scikit-learn**
